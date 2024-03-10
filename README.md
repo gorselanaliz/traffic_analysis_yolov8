@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 <br/>
 
-![MasterHead](https://learnopencv.com/wp-content/uploads/2024/01/car_rectline_ct.gif)
+![](https://learnopencv.com/wp-content/uploads/2024/01/car_rectline_ct.gif)
   <br/>
 
 
