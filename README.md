@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 <br/>
 
-![](https://learnopencv.com/wp-content/uploads/2024/01/car_rectline_ct.gif)
+![](https://github.com/gorselanaliz/traffic_analysis_yolov8/blob/main/car_rectline_ct.webp)
   <br/>
 
 
