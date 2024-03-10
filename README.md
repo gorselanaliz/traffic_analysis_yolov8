@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-All you need to have is a Google account.
+OpenCV and Ultralytics should have been installed on your local Python environment.
 
 * OpenCV
 * Ultralytics
